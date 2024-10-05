@@ -1,4 +1,4 @@
-# Analysis of Global Flight Delays and Cancellations
+# Analysis of Global Flight Delays and Cancellations (Python, R & SQL)
 
 ## Welcome to my Data portfolio! 
 My first data analysis project aims to analyze and visualize patterns, causes, and impacts
