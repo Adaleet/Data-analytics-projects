@@ -21,7 +21,8 @@ This repository contains a collection of data analysis projects showcasing vario
      - Airport: New York John F.Kennedy International Airport (JFK)
      - Data Range: [2019-07-01 -> 2024-07-01]
      - Technologies used: Python, Pandas, Matplotlib, Jupyter Notebook.
-   **Data Source**: The dataset used for this analysis is obtained from the Bureau of Transportation Statistics (BTS), which provides comprehensive data on U.S. flights, including delay statistics. The dataset includes flight records for American Airlines, specifically focusing on departures from JFK over the selected years 
+   ### Data Source: 
+   The dataset used for this analysis is obtained from the Bureau of Transportation Statistics (BTS), which provides comprehensive data on U.S. flights, including delay statistics. The dataset includes flight records for American Airlines, specifically focusing on departures from JFK over the selected years 
 
 ## How to Use This Repository
 1. Clone the repository:
