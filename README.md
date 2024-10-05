@@ -5,7 +5,7 @@ This repository contains a collection of data analysis projects showcasing vario
 
 ## Projects Included
 
-### 1. **Business Analysis Project (R Programming)**
+### 1. **Business Analysis Project (R Programming, SQL, MatLab & more)**
    - **Description**: A comprehensive business analysis using R programming, focusing on data-driven decision-making through statistical analysis and visualization.
    - **Key Features**:
      - Data preprocessing and cleaning
