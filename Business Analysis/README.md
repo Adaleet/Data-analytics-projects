@@ -1,4 +1,4 @@
-# Business Analysis Project (R Programming)
+# Business Analysis Project (R Programming, SQL, MatLab & more)
 
 ## Overview
 This project focuses on using R programming to conduct a comprehensive business analysis. It aims to leverage statistical methods, data visualization, and analytical techniques to derive insights from business data, aiding in data-driven decision-making.
